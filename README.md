@@ -9,7 +9,6 @@
 -   Organize and analyze data by leveraging Spark's capabilities for handling large datasets efficiently.
 -   Ensure results for all tasks are clear and well-documented in the code and output.
         
-### This is to certify that the work under Project Based Learning (PBL) for the topic “Big data analysis on weather” is carried out by “Indar Awasthi, Harsh dixit, Ansh Gupta, Kaushal Jha, Justin J Matthew” under the guidance of Prof. Sheetal Patil in partial fulfillment of the requirement for the degree of “Bachelor of Technology in Computer Engineering Semester-VI” of “Bharati Vidyapeeth (Deemed to be University), Pune” during the academic year 2024-2025.
 
 - The outcomes provide valuable insights into climate patterns over a decade, such as the frequency and intensity of high-temperature events. This project demonstrates the application of big data tools in real-world environmental data analysis and highlights the importance of distributed computing in handling and extracting meaningful information from large-scale datasets.
 
